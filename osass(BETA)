@@ -1,0 +1,28 @@
+import sys
+print("welcome to osass")
+print("start up by making a acount")
+welcomeusername = input("make a username that we welcome you with")
+username = input("make a username")
+password = input("make a password")
+print("your id must not have 4 of the same number and can have 4 numbers and must start with a #")
+id = input("make a id this will be used in login in")
+age = input("how old are you")
+
+if age == "1" "2" "3" "4" "5" "6" "7":
+     print("sorry but you have to be 8 or over to use osass")
+     
+
+class stuff:
+    pass
+
+username = stuff()
+password = stuff()
+
+class profile:
+    pass
+
+
+id = profile()
+age = profile()
+
+print("end")
